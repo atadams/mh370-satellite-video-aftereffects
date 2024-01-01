@@ -8,6 +8,12 @@ To render the animation you will need the following paid plugins and models:
 
 Note: all three of these were available in 2014 (when the original video was believed to have been made.)
 
+## Instructions
+
+1. Render the "satellite 6" composition to get the full scene render.
+2. To get the panning and mouse movement from the original video, replace "satelite 5_24.mp4" with the "satellite 6" rendering and render the "mouse-mapping" composition.
+3. To get the video comparing this version to the original, replace "mouse-mapping_10.mp4" with the "mouse-mapping" video and render. 
+
 # Reddit Post
 
 I'm OK at VFX. Far from a pro. I just do things for fun. This took me a bit of time, but most of that was me learning and a lot of time trying to match the look of the original. I think I could redo this in a day. There was nothing complicated about it at all. Every feature I used was available in 2014.
